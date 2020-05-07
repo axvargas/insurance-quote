@@ -44,7 +44,7 @@ const AppPage = ({ setQuote, quote, charging, setCharging }) => {
                 }
 
 
-                }
+                
 
             </Grid>
         </MuiThemeProvider>
